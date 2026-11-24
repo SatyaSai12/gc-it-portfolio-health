@@ -1,0 +1,178 @@
+unique_id,department,project_name,times_reported,baseline_year,latest_year,latest_as_of,baseline_budget,latest_budget,baseline_due,latest_due,budget_change_pct,slip_years,size_band,cost_rag,schedule_rag,overall_rag
+cra-citm,Canada Revenue Agency,Charities IT Modernization,2,2016,2019,2019-05-01,22977000.0,20871000.0,2019-03-31,2020-03-31,-9.2,1.0,2. $10M-$100M,Green,Amber,Amber
+cra-eftm-2,Canada Revenue Agency,Electronic Funds Transfer Matching Phase 2,2,2016,2019,2019-05-01,12700000.0,12827000.0,2020-03-31,2021-03-31,1.0,1.0,2. $10M-$100M,Green,Amber,Amber
+cra-interop,Canada Revenue Agency,Interoperability for Digital Services,2,2019,2022,2022-04-25,7506000.0,8031000.0,2022-03-31,2023-03-31,7.0,1.0,1. Under $10M,Green,Amber,Amber
+cra-nrsdi,Canada Revenue Agency,Non-Resident Source Deduction Identification,2,2016,2019,2019-05-01,9389000.0,11589000.0,2019-03-31,2020-03-31,23.4,1.0,1. Under $10M,Amber,Amber,Amber
+cra-primus,Canada Revenue Agency,PRIMUS,2,2019,2022,2022-04-25,11335000.0,11335000.0,2022-03-31,2023-03-31,0.0,1.0,2. $10M-$100M,Green,Amber,Amber
+cra-t3m,Canada Revenue Agency,T3 Modernization,2,2019,2022,2022-04-25,95776000.0,104424000.0,2023-03-31,2024-03-31,9.0,1.0,2. $10M-$100M,Green,Amber,Amber
+dfo-wlm,Fisheries and Oceans Canada,Workload Migration,2,2016,2019,2019-05-01,4236800.0,2335000.0,2020-03-31,2021-03-31,-44.9,1.0,1. Under $10M,Green,Amber,Amber
+hc-fm,Health Canada,Food Guide Modernization,2,2016,2019,2019-05-01,2300000.0,2355000.0,2019-03-31,2020-03-31,2.4,1.0,1. Under $10M,Green,Amber,Amber
+hc-gcdocs,Health Canada,GCdocs,2,2016,2019,2019-05-01,15100000.0,18552169.0,2020-03-31,2021-03-31,22.9,1.0,2. $10M-$100M,Amber,Amber,Amber
+justice-gcsi,Department of Justice Canada,Government of Canada Secret Infrastructure,2,2016,2019,2019-05-01,6000000.0,4300000.0,2019-03-31,2020-03-31,-28.3,1.0,1. Under $10M,Green,Amber,Amber
+pc-crmis,Parks Canada,Cultural Resource Management Information System,2,2016,2019,2019-05-01,1908000.0,2146500.0,2020-03-31,2021-03-31,12.5,1.0,1. Under $10M,Amber,Amber,Amber
+rcmp-radio-central,Royal Canadian Mounted Police,Central Region Radio Renewal – CR3,2,2019,2022,2022-04-25,88000000.0,88400000.0,2023-09-29,2024-09-03,0.5,0.93,2. $10M-$100M,Green,Amber,Amber
+dnd-secure-tablet,National Defence,Secure Tablet,2,2019,2022,2022-04-25,3913600.0,4422368.0,2022-12-31,2023-09-30,13.0,0.75,1. Under $10M,Amber,Amber,Amber
+cbsa-biometric-expansion,Canada Border Services Agency,Biometrics Expansion,2,2016,2019,2019-05-01,65800000.0,71000000.0,2019-03-31,2019-11-30,7.9,0.67,2. $10M-$100M,Green,Amber,Amber
+ssc-gcsi,Shared Services Canada,GC Secret Infrastructure (GCSI) Expansion,2,2019,2022,2022-04-25,93881406.0,94122055.0,2024-03-31,2024-11-11,0.3,0.62,2. $10M-$100M,Green,Amber,Amber
+dfo-modip,Fisheries and Oceans Canada,Modernization of Ocean Data Integration Processes,2,2016,2019,2019-05-01,3014510.0,3015000.0,2019-03-31,2019-07-31,0.0,0.33,1. Under $10M,Green,Amber,Amber
+ised-ip-marketplace,"Innovation, Science and Economic Development Canada",ExploreIP  (formally – IP Marketplace),2,2019,2022,2022-04-25,2478766.0,2455951.0,2022-03-31,2022-07-31,-0.9,0.33,1. Under $10M,Green,Amber,Amber
+tbs-gctools-directory,Treasury Board of Canada Secretariat,Self-service interoperable employee directory on  GCTools,2,2019,2022,2022-04-25,1363058.0,1300000.0,2022-03-31,2022-06-30,-4.6,0.25,1. Under $10M,Green,Amber,Amber
+eccc-climate-archive,Environment and Climate Change Canada,Climate Archive Renewal,2,2019,2022,2022-04-25,7500000.0,9463379.0,2023-03-31,2023-03-31,26.2,0.0,1. Under $10M,Amber,Green,Amber
+pc-nirs,Parks Canada,National Integrated Realty System,2,2016,2019,2019-05-01,1774000.0,2237100.0,2020-03-31,2020-03-31,26.1,0.0,1. Under $10M,Amber,Green,Amber
+pspc-gcsurplus,Public Services and Procurement Canada,GCSurplus Application Renewal Project,2,2019,2022,2022-04-25,3821287.0,4476943.0,2023-03-31,2023-03-31,17.2,0.0,1. Under $10M,Amber,Green,Amber
+ised-cc-itr,"Innovation, Science and Economic Development Canada",Corporations Canada IT Renewal,2,2019,2022,2022-04-25,10000000.0,12065722.0,2023-04-01,2023-01-04,20.7,-0.24,2. $10M-$100M,Amber,Green,Amber
+csc-ierp,Correctional Service Canada,Interim Enterprise Resource Planning,2,2019,2022,2022-04-25,3814497.0,1500000.0,2022-03-31,2022-06-15,-60.7,0.21,1. Under $10M,Green,Green,Green
+ircc-ifhp-camp,"Immigration, Refugees and Citizenship Canada",Interim Federal Health Program (IFHP) – Claims Admin Modernization,2,2019,2022,2022-04-25,6300000.0,6350000.0,2022-01-16,2022-03-31,0.8,0.2,1. Under $10M,Green,Green,Green
+dfo-ces,Fisheries and Oceans Canada,Compliance and Enforcement System (NETS),2,2019,2022,2022-04-25,2000000.0,2059000.0,2023-01-31,2023-03-31,3.0,0.16,1. Under $10M,Green,Green,Green
+tc-saar,Transport Canada,System Architecture and Application Rationalization,2,2016,2019,2019-05-01,8346002.0,8346002.0,2020-03-31,2020-04-30,0.0,0.08,1. Under $10M,Green,Green,Green
+cbsa-ppp,Canada Border Services Agency,Passenger Protect Program,2,2019,2022,2022-04-25,56900000.0,25512434.0,2023-03-31,2023-03-31,-55.2,0.0,2. $10M-$100M,Green,Green,Green
+cra-am,Canada Revenue Agency,Appeals Modernization,2,2019,2022,2022-04-25,62870000.0,45151000.0,2023-03-31,2023-03-31,-28.2,0.0,2. $10M-$100M,Green,Green,Green
+cra-t1sr,Canada Revenue Agency,T1 Systems Redesign,2,2016,2019,2019-05-01,251000000.0,251000000.0,2020-03-31,2020-03-31,0.0,0.0,3. Over $100M,Green,Green,Green
+pspc-isst,Public Services and Procurement Canada,Industrial Security Systems Transformation (ISST),2,2019,2022,2022-04-25,35300000.0,30955565.0,2024-03-31,2024-03-31,-12.3,0.0,2. $10M-$100M,Green,Green,Green
+rcmp-biometric-expansion,Royal Canadian Mounted Police,Biometrics Expansion,2,2016,2019,2019-05-01,13180000.0,1100000.0,2020-03-31,2020-03-31,-91.7,0.0,2. $10M-$100M,Green,Green,Green
+esdc-job-bank-3,Employment and Social Development Canada,Job Bank 3,2,2019,2022,2022-04-25,12314749.0,12865179.0,2022-10-31,2022-09-12,4.5,-0.13,2. $10M-$100M,Green,Green,Green
+ised-ccbr,"Innovation, Science and Economic Development Canada",Connecting Canada's Business Registries,2,2019,2022,2022-04-25,5984400.0,5444733.0,2022-03-31,2022-01-10,-9.0,-0.22,1. Under $10M,Green,Green,Green
+ssc-eps,Shared Services Canada,Enterprise Perimeter Security,2,2016,2019,2019-05-01,23168425.0,21643272.0,2021-03-31,2020-03-31,-6.6,-1.0,2. $10M-$100M,Green,Green,Green
+ssc-evcm,Shared Services Canada,Enterprise Vulnerability and Compliance Management,2,2016,2019,2019-05-01,29446711.0,21439766.0,2021-03-31,2020-03-31,-27.2,-1.0,2. $10M-$100M,Green,Green,Green
+ssc-sced,Shared Services Canada,Secure Cloud Enablement and Defence (SCED),2,2019,2022,2022-04-25,48162000.0,41548318.0,2023-10-31,2022-05-06,-13.7,-1.49,2. $10M-$100M,Green,Green,Green
+esdc-pmis,Employment and Social Development Canada,Project Management Information Solution (PMIS) Next Generation,3,2016,2022,2022-04-25,1543726.0,6659046.0,2016-06-07,2025-03-28,331.4,8.8,1. Under $10M,Red,Red,Red
+csc-omsm,Correctional Service Canada,Offender Management System (OMS) Modernization,3,2016,2022,2022-04-25,10219000.0,77400000.0,2018-07-05,2027-02-17,657.4,8.62,2. $10M-$100M,Red,Red,Red
+hc-eas-database,Health Canada,Employee Assistance Services 1-800 Database,2,2016,2022,2022-04-25,3800000.0,8500000.0,2017-03-31,2025-03-31,123.7,8.0,1. Under $10M,Red,Red,Red
+esdc-esd-noc,Employment and Social Development Canada,NOC Modernization 3,3,2016,2022,2022-04-25,1946405.0,7272485.0,2017-03-29,2024-04-22,273.6,7.07,1. Under $10M,Red,Red,Red
+cra-quantum,Canada Revenue Agency,Quantum 2.0,2,2019,2022,2022-04-25,14163000.0,71903000.0,2020-03-31,2027-03-31,407.7,7.0,2. $10M-$100M,Red,Red,Red
+tc-wlm,Transport Canada,Workload Migration Leveraging Cloud Services and Shared Services Canada Enterprise Data Centre Services,3,2016,2022,2022-04-25,3754406.0,31455661.0,2019-03-31,2026-03-31,737.8,7.0,1. Under $10M,Red,Red,Red
+csc-ohis-oscar,Correctional Service Canada,Offender Health Information System – Electronic Medical Record (EMR/OSCAR),3,2016,2022,2022-04-25,1125168.0,10100000.0,2016-10-21,2023-03-31,797.6,6.44,1. Under $10M,Red,Red,Red
+hc-nohis,Health Canada,National Occupational Health Information System (NOHIS),3,2016,2022,2022-04-25,1000000.0,3500000.0,2018-03-31,2024-06-30,250.0,6.25,1. Under $10M,Red,Red,Red
+tc-enterprise-bi,Transport Canada,Enterprise Business Intelligence and Data Analytics,3,2016,2022,2022-04-25,5762826.0,8331247.0,2017-03-31,2023-05-31,44.6,6.17,1. Under $10M,Red,Red,Red
+csc-lms,Correctional Service Canada,Learning Management System,3,2016,2022,2022-04-25,4002100.0,3200000.0,2018-03-31,2024-03-29,-20.0,6.0,1. Under $10M,Green,Red,Red
+dnd-masis,National Defence,Illustrated Parts Catalogue (MASIS),2,2016,2022,2022-04-25,3787000.0,8108000.0,2018-03-31,2024-03-31,114.1,6.0,1. Under $10M,Red,Red,Red
+justice-dls-network,Department of Justice Canada,Departmental Legal Services Units (DLSU) Connectivity,3,2016,2022,2022-04-25,8300000.0,10400000.0,2019-03-31,2025-03-31,25.3,6.0,1. Under $10M,Amber,Red,Red
+ised-cipo-ifs,"Innovation, Science and Economic Development Canada",Canadian Intellectual Property Office (CIPO) Financial Management Modernization,2,2016,2022,2022-04-25,2184840.0,3421000.0,2018-04-27,2024-03-31,56.6,5.93,1. Under $10M,Red,Red,Red
+ssc-aacs,Shared Services Canada,Administrative Access Controls Service (AACS),3,2016,2022,2022-04-25,23690000.0,34694937.0,2018-03-31,2024-01-03,46.5,5.76,2. $10M-$100M,Red,Red,Red
+csc-gcdocs,Correctional Service Canada,GCDOCS Phase II,3,2016,2022,2022-04-25,4337898.0,10800000.0,2018-03-30,2023-07-31,149.0,5.34,1. Under $10M,Red,Red,Red
+csc-ohis-pharm,Correctional Service Canada,Offender Health Information System – Regional Pharmacy Management Solution,3,2016,2022,2022-04-25,9494226.0,2200000.0,2017-11-29,2023-03-31,-76.8,5.33,1. Under $10M,Green,Red,Red
+dnd-csni-enmm,National Defence,Consolidated Secret Network Infrastructure Enterprise Network Management and Monitoring,2,2019,2022,2022-04-25,4424000.0,4424000.0,2019-09-01,2024-12-31,0.0,5.33,1. Under $10M,Green,Red,Red
+gac-eics-2,Global Affairs Canada,Export Import Controls System (EICS) II – Application Renewal,3,2016,2022,2022-04-25,33570000.0,134300001.0,2017-02-28,2022-06-30,300.1,5.33,2. $10M-$100M,Red,Red,Red
+esdc-tfwp,Employment and Social Development Canada,Temporary Foreign Worker System and Webservice Enhancements 2,3,2016,2022,2022-04-25,6321677.0,10763795.0,2017-03-31,2022-05-09,70.3,5.11,1. Under $10M,Red,Red,Red
+rcmp-next-gen-911,Royal Canadian Mounted Police,Next Generation (NG) 9-1-1 Centre of Expertise,2,2019,2022,2022-04-25,1400000.0,1800000.0,2020-03-31,2025-05-02,28.6,5.09,1. Under $10M,Amber,Red,Red
+cra-dm,Canada Revenue Agency,Digital Mailroom,3,2016,2022,2022-04-25,5940000.0,13102000.0,2018-03-31,2023-03-31,120.6,5.0,1. Under $10M,Red,Red,Red
+cra-spr,Canada Revenue Agency,Secure Portals Re-engineering,3,2016,2022,2022-04-25,10500000.0,52848000.0,2020-03-31,2025-03-31,403.3,5.0,2. $10M-$100M,Red,Red,Red
+csc-wlm,Correctional Service Canada,Workload Migration and Application Modernization Part 1,2,2016,2022,2022-04-25,3644892.0,4370000.0,2018-04-04,2023-03-31,19.9,4.99,1. Under $10M,Amber,Red,Red
+inac-rims-2,Indigenous Services Canada & Crown-Indigenous Relations and Northern Affairs Canada,Resource Information Management System 2,3,2016,2022,2022-04-25,8977000.0,10605000.0,2018-04-04,2023-03-23,18.1,4.97,1. Under $10M,Amber,Red,Red
+ised-cipo-ipcwp-p,"Innovation, Science and Economic Development Canada",Canadian Intellectual Property Office (CIPO) Patent and Patent Appeal Board (PAB) Case Business Transformation,2,2016,2022,2022-04-25,11252000.0,16043391.0,2019-03-31,2023-11-30,42.6,4.67,2. $10M-$100M,Red,Red,Red
+dnd-tcds-us,National Defence,Transfer Cross Domain Solution – CDMN and US Led Coalition (BICES-X),3,2016,2022,2022-04-25,3380000.0,4989628.0,2019-03-31,2023-09-30,47.6,4.5,1. Under $10M,Red,Red,Red
+dfo-gcdocs,Fisheries and Oceans Canada,GC Electronic Document and Record Management System (GCDOCS) – Digital Information Management,2,2019,2022,2022-04-25,5239000.0,14257000.0,2018-11-30,2023-03-31,172.1,4.33,1. Under $10M,Red,Red,Red
+ppsc-lcms,Public Prosecution Service of Canada,New Legal Case Management Systems Platform (Amicus),3,2016,2022,2022-04-25,3779000.0,5900000.0,2018-03-31,2022-06-30,56.1,4.25,1. Under $10M,Red,Red,Red
+tc-tdgc,Transport Canada,Transportation of Dangerous Goods Core,3,2016,2022,2022-04-25,4530374.0,10800313.0,2019-03-31,2023-05-31,138.4,4.17,1. Under $10M,Red,Red,Red
+cra-apmd,Canada Revenue Agency,Application Performance Monitoring Deployment,3,2016,2022,2022-04-25,4420000.0,6522000.0,2019-03-31,2023-03-31,47.6,4.0,1. Under $10M,Red,Red,Red
+cra-bpf,Canada Revenue Agency,"Planning, Budgeting and Forecasting",3,2016,2022,2022-04-25,5000000.0,7757000.0,2019-03-31,2023-03-31,55.1,4.0,1. Under $10M,Red,Red,Red
+cra-ets,Canada Revenue Agency,Enterprise Testing Solution,3,2016,2022,2022-04-25,6780000.0,7214000.0,2019-03-31,2023-03-31,6.4,4.0,1. Under $10M,Green,Red,Red
+csc-e-discovery,Correctional Service Canada,E-Discovery,2,2019,2022,2022-04-25,4339458.0,6500000.0,2021-03-31,2025-03-31,49.8,4.0,1. Under $10M,Red,Red,Red
+hc-csi,Health Canada,Common Submission Intake,3,2016,2022,2022-04-25,8300000.0,16300000.0,2019-03-31,2023-03-31,96.4,4.0,1. Under $10M,Red,Red,Red
+ircc-ppmi,"Immigration, Refugees and Citizenship Canada",Passport Program Modernization Initiative,3,2016,2022,2022-04-25,28713419.0,187630000.0,2018-12-01,2022-11-30,553.5,4.0,2. $10M-$100M,Red,Red,Red
+ised-wlm,"Innovation, Science and Economic Development Canada",Workload Migration (WLM),3,2016,2022,2022-04-25,2353584.0,21782447.0,2020-03-31,2024-03-31,825.5,4.0,1. Under $10M,Red,Red,Red
+tc-fodm,Transport Canada,Flight Operations Data Management,2,2019,2022,2022-04-25,1362842.0,3356321.0,2020-03-31,2024-03-31,146.3,4.0,1. Under $10M,Red,Red,Red
+hc-eam,Health Canada,Enterprise Assets Management,2,2016,2019,2019-05-01,4600000.0,5029040.0,2018-03-31,2021-12-31,9.3,3.75,1. Under $10M,Green,Red,Red
+esdc-leaf,Employment and Social Development Canada,Labour Electronic Access Forms,2,2016,2019,2019-05-01,5159527.0,5734315.0,2016-09-30,2020-05-07,11.1,3.6,1. Under $10M,Amber,Red,Red
+dnd-tcds-nato,National Defence,Transfer Cross Domain Solution – NATO Command & Control Systems,2,2019,2022,2022-04-25,4280000.0,4836400.0,2020-03-01,2023-09-30,13.0,3.58,1. Under $10M,Amber,Red,Red
+hc-csrs,Health Canada,Controlled Substances and Precursor System,3,2016,2022,2022-04-25,4600000.0,12100000.0,2019-03-31,2022-09-30,163.0,3.5,1. Under $10M,Red,Red,Red
+inac-gcdocs,Indigenous Services Canada & Crown-Indigenous Relations and Northern Affairs Canada,GCdocs,3,2016,2022,2022-04-25,12000000.0,11000000.0,2018-12-31,2022-06-30,-8.3,3.5,2. $10M-$100M,Green,Red,Red
+ised-cipo-itm-online,"Innovation, Science and Economic Development Canada",myCIPO Online Services,2,2016,2019,2019-05-01,3236758.0,4151464.0,2017-09-29,2021-03-31,28.3,3.5,1. Under $10M,Amber,Red,Red
+pspc-eps,Public Services and Procurement Canada,E-Procurement Solution (EPS),3,2016,2022,2022-04-25,45900000.0,144135089.0,2019-12-31,2023-06-30,214.0,3.5,2. $10M-$100M,Red,Red,Red
+esdc-cpp-sis,Employment and Social Development Canada,CPP SIS (Canada Pension Plan Service Improvement Strategy),3,2016,2022,2022-04-25,56326502.0,53720111.0,2019-03-31,2022-08-29,-4.6,3.41,2. $10M-$100M,Green,Red,Red
+dnd-nrs-rms,National Defence,Ship/Shore High Frequency (HF) Radio Messaging System,2,2019,2022,2022-04-25,4400000.0,4972000.0,2020-03-31,2023-06-30,13.0,3.25,1. Under $10M,Amber,Red,Red
+tc-crsm,Transport Canada,Cost Recovery Service Management,2,2019,2022,2022-04-25,3084000.0,17097636.0,2021-03-31,2024-06-30,454.4,3.25,1. Under $10M,Red,Red,Red
+ised-cipo-e-filing,"Innovation, Science and Economic Development Canada",CIPO Electronic Filing of a Patent Application,2,2016,2019,2019-05-01,1525320.0,1967458.0,2017-04-14,2020-06-30,29.0,3.21,1. Under $10M,Amber,Red,Red
+dnd-caf-cloud-pcf,National Defence,CAF Cloud Program – DND/CAF Public Cloud Foundation,2,2019,2022,2022-04-25,4220000.0,4768600.0,2019-07-31,2022-09-30,13.0,3.17,1. Under $10M,Amber,Red,Red
+ised-cipo-itm-search,"Innovation, Science and Economic Development Canada",CIPO ITM Smart Search,2,2016,2019,2019-05-01,2005859.0,3950802.0,2018-03-30,2021-05-31,97.0,3.17,1. Under $10M,Red,Red,Red
+ised-iam,"Innovation, Science and Economic Development Canada",Access Roles Management,2,2019,2022,2022-04-25,1117800.0,1273000.0,2019-03-31,2022-05-31,13.9,3.17,1. Under $10M,Amber,Red,Red
+ircc-gcms-drp,"Immigration, Refugees and Citizenship Canada",Global Case Management System (GCMS) Disaster Recovery,2,2019,2022,2022-04-25,52300000.0,89730000.0,2020-08-11,2023-09-30,71.6,3.13,2. $10M-$100M,Red,Red,Red
+justice-next-gen-litigation,Department of Justice Canada,Next Generation Litigation Software (NGLS),2,2019,2022,2022-04-25,6000000.0,8500000.0,2020-02-28,2023-03-31,41.7,3.09,1. Under $10M,Red,Red,Red
+dnd-dse-fle,National Defence,Data Security Enhancements File Labeling and Encryption,2,2019,2022,2022-04-25,4415000.0,4999120.0,2019-09-01,2022-09-30,13.2,3.08,1. Under $10M,Amber,Red,Red
+cra-bsr,Canada Revenue Agency,Benefits System Renewal Project,3,2016,2022,2022-04-25,79047000.0,142961000.0,2020-03-31,2023-03-31,80.9,3.0,2. $10M-$100M,Red,Red,Red
+cra-cbcr,Canada Revenue Agency,Country by Country Report,3,2016,2022,2022-04-25,11463000.0,10648000.0,2020-03-31,2023-03-31,-7.1,3.0,2. $10M-$100M,Green,Red,Red
+cra-ccti,Canada Revenue Agency,Contact Centre Transformation Initiative,3,2016,2022,2022-04-25,12378000.0,13199000.0,2020-03-31,2023-03-31,6.6,3.0,2. $10M-$100M,Green,Red,Red
+cra-ser-cda,Canada Revenue Agency,Abusive Tax Avoidance – Risk Assessment & Analysis,2,2019,2022,2022-04-25,16650000.0,55265000.0,2024-03-31,2027-03-31,231.9,3.0,2. $10M-$100M,Red,Red,Red
+csc-fms,Correctional Service Canada,Financial System Modernization to System Applications and Products,2,2019,2022,2022-04-25,21978557.0,31100000.0,2022-03-31,2025-03-31,41.5,3.0,2. $10M-$100M,Red,Red,Red
+csc-forms,Correctional Service Canada,Forms Modernization,2,2019,2022,2022-04-25,7702920.0,4500000.0,2022-03-31,2025-03-31,-41.6,3.0,1. Under $10M,Green,Red,Red
+dnd-caf-cloud-dte,National Defence,CAF Cloud Program – Private Cloud Development & Testing Environment (Lab),2,2019,2022,2022-04-25,4300000.0,4859000.0,2019-09-30,2022-09-30,13.0,3.0,1. Under $10M,Amber,Red,Red
+hc-das-modernization,Health Canada,Drug Analysis Service (DAS) IT Modernization,2,2019,2022,2022-04-25,1902000.0,1600000.0,2021-03-31,2024-03-31,-15.9,3.0,1. Under $10M,Green,Red,Red
+hc-sap-2,Health Canada,Special Access Program – Release 2,2,2019,2022,2022-04-25,2136986.0,2400000.0,2020-03-31,2023-03-31,12.3,3.0,1. Under $10M,Amber,Red,Red
+pspc-lsrms,Public Services and Procurement Canada,Gclingua,2,2019,2022,2022-04-25,13646973.0,16703301.0,2021-03-31,2024-03-31,22.4,3.0,2. $10M-$100M,Amber,Red,Red
+rcmp-cencis-3,Royal Canadian Mounted Police,Centralized Communication Interception System (CenCIS) III,2,2016,2019,2019-05-01,5201000.0,11200000.0,2017-03-31,2020-03-29,115.3,3.0,1. Under $10M,Red,Red,Red
+tbs-atip-online,Treasury Board of Canada Secretariat,ATIP Online Request Service (AORS),2,2019,2022,2022-04-25,6631979.0,12300000.0,2021-03-31,2024-03-31,85.5,3.0,1. Under $10M,Red,Red,Red
+tc-lms,Transport Canada,Departmental Learning Management System,2,2019,2022,2022-04-25,2736213.0,3944316.0,2019-09-30,2022-09-30,44.2,3.0,1. Under $10M,Red,Red,Red
+tc-nwar,Transport Canada,Navigable Waters Act Renewal,2,2019,2022,2022-04-25,2727768.0,7891147.0,2020-03-31,2023-03-31,189.3,3.0,1. Under $10M,Red,Red,Red
+dnd-cdrsn-pbx,National Defence,Canadian Defensive Red Switch Network,2,2016,2019,2019-05-01,1300000.0,2637140.0,2017-03-31,2020-02-29,102.9,2.92,1. Under $10M,Red,Red,Red
+cbsa-pik,Canada Border Services Agency,Primary Inspection Kiosk Phase 1,2,2016,2019,2019-05-01,3168495.0,13600000.0,2017-06-29,2020-03-31,329.2,2.75,1. Under $10M,Red,Red,Red
+dnd-drmis-sso,National Defence,Defence Resources Management Information System (DRMIS) Single SignOn Solution (SSO),2,2019,2022,2022-04-25,1200000.0,1356000.0,2021-03-31,2023-12-31,13.0,2.75,1. Under $10M,Amber,Red,Red
+dnd-wan,National Defence,Classified Domain Wide Area Network (WAN) Optimization,2,2019,2022,2022-04-25,3830000.0,4327900.0,2020-09-30,2023-06-30,13.0,2.75,1. Under $10M,Amber,Red,Red
+hc-eprs-modernization,Health Canada,e-PRS (Pesticide Regulatory System) Modernization,2,2016,2019,2019-05-01,3300000.0,3434816.0,2018-03-31,2020-12-31,4.1,2.75,1. Under $10M,Green,Red,Red
+pch-gcdocs,Canadian Heritage,GCdocs,2,2016,2019,2019-05-01,3968072.0,4598483.0,2019-03-31,2021-12-31,15.9,2.75,1. Under $10M,Amber,Red,Red
+pch-gcmp,Canadian Heritage,Grants and Contributions Modernization Project,2,2016,2019,2019-05-01,2791679.0,21431412.0,2019-03-31,2021-12-31,667.7,2.75,1. Under $10M,Red,Red,Red
+rcmp-radio-v,Royal Canadian Mounted Police,V Division Radio Modernization,2,2019,2022,2022-04-25,2000000.0,6700000.0,2019-11-27,2022-06-30,235.0,2.59,1. Under $10M,Red,Red,Red
+csc-pos,Correctional Service Canada,Point of Sale (POS) System Modernization,2,2016,2019,2019-05-01,2548500.0,2651854.0,2017-09-19,2020-03-31,4.1,2.53,1. Under $10M,Green,Red,Red
+cfia-e-billing,Canadian Food Inspection Agency,Enhancements to Electronic Billing (e-Billing) Functionality,2,2019,2022,2022-04-25,1282000.0,1150400.0,2020-03-31,2022-09-30,-10.3,2.5,1. Under $10M,Green,Red,Red
+dnd-cvoip,National Defence,Classified Video and Voice over Internet Protocol,2,2016,2019,2019-05-01,2103000.0,2101500.0,2017-03-31,2019-09-30,-0.1,2.5,1. Under $10M,Green,Red,Red
+rcmp-nsorm,Royal Canadian Mounted Police,National Sex Offender Registry Modernization Project,2,2016,2019,2019-05-01,2490000.0,7300000.0,2017-03-31,2019-09-23,193.2,2.48,1. Under $10M,Red,Red,Red
+esdc-bs-lmi,Employment and Social Development Canada,Business Solution for Data Visualization,2,2019,2022,2022-04-25,3111263.0,2677411.0,2019-12-31,2022-05-24,-13.9,2.4,1. Under $10M,Green,Red,Red
+cbsa-e-manifest,Canada Border Services Agency,eManifest,2,2016,2019,2019-05-01,415109292.0,415000000.0,2017-03-31,2019-06-30,-0.0,2.25,3. Over $100M,Green,Red,Red
+dnd-iti,National Defence,Information Technology Infrastructure (ITI) Enhancement,2,2019,2022,2022-04-25,4401758.0,4973987.0,2021-03-31,2023-06-30,13.0,2.25,1. Under $10M,Amber,Red,Red
+dnd-sccmd,National Defence,Secure Smart Phone,2,2019,2022,2022-04-25,4400000.0,4972000.0,2021-03-31,2023-06-30,13.0,2.25,1. Under $10M,Amber,Red,Red
+ised-cipo-ipdfm,"Innovation, Science and Economic Development Canada",CIPO IP Document and File Management,2,2016,2019,2019-05-01,5758530.0,4592194.0,2017-09-29,2019-12-31,-20.3,2.25,1. Under $10M,Green,Red,Red
+tc-egis,Transport Canada,Enterprise Geospatial Information System,2,2019,2022,2022-04-25,4091028.0,5652834.0,2020-12-31,2023-03-31,38.2,2.25,1. Under $10M,Red,Red,Red
+tc-miss,Transport Canada,Major Investigation Specialized Software,2,2019,2022,2022-04-25,1767851.0,4136432.0,2020-03-31,2022-06-30,134.0,2.25,1. Under $10M,Red,Red,Red
+ssc-spfc,Shared Services Canada,Smart Phone for Classified (SPfC),2,2019,2022,2022-04-25,15400815.0,15183557.0,2021-03-31,2023-06-26,-1.4,2.24,2. $10M-$100M,Green,Red,Red
+esdc-sp,Employment and Social Development Canada,Migration to SharePoint Server 2016,2,2019,2022,2022-04-25,1056598.0,1089551.0,2020-03-11,2022-05-31,3.1,2.22,1. Under $10M,Green,Red,Red
+justice-scms,Department of Justice Canada,Legal Case Management Solution,2,2016,2019,2019-05-01,9000000.0,13900000.0,2018-03-31,2020-04-30,54.4,2.08,1. Under $10M,Red,Red,Red
+cra-e-procurement,Canada Revenue Agency,CRA eProcurement Solution,2,2019,2022,2022-04-25,9700000.0,8793000.0,2021-03-31,2023-03-31,-9.4,2.0,1. Under $10M,Green,Red,Red
+cra-psm,Canada Revenue Agency,Physical Security Modernization,2,2016,2019,2019-05-01,5411000.0,11515000.0,2019-03-31,2021-03-31,112.8,2.0,1. Under $10M,Red,Red,Red
+dnd-stcscr,National Defence,Strategic Telecommunication Tower Replacement,2,2016,2019,2019-05-01,4950000.0,4380531.0,2018-03-31,2020-03-31,-11.5,2.0,1. Under $10M,Green,Red,Red
+justice-gcsi-ringtail,Department of Justice Canada,Ringtail Secret Migration to GCSI,2,2019,2022,2022-04-25,1800000.0,2900000.0,2021-03-31,2023-03-31,61.1,2.0,1. Under $10M,Red,Red,Red
+nrcan-essb-im,Natural Resources Canada,Digitization of Explosive Safety and Security Branch (ESSB) business files/records/folders,2,2019,2022,2022-04-25,2000000.0,2000000.0,2021-03-31,2023-03-31,0.0,2.0,1. Under $10M,Green,Red,Red
+pspc-procure2pay,Public Services and Procurement Canada,Procure to Pay,2,2016,2019,2019-05-01,10600000.0,10569000.0,2018-03-30,2020-03-31,-0.3,2.0,2. $10M-$100M,Green,Red,Red
+rcmp-emcm,Royal Canadian Mounted Police,Electronic Major Case Management Renewal,2,2016,2019,2019-05-01,17904000.0,48000000.0,2019-03-31,2021-03-31,168.1,2.0,2. $10M-$100M,Red,Red,Red
+ssc-icas,Shared Services Canada,GC Internal Credential Authentication Service,2,2016,2019,2019-05-01,5710000.0,5544999.0,2018-03-31,2020-03-31,-2.9,2.0,1. Under $10M,Green,Red,Red
+inac-fnihb-unephi,Indigenous Services Canada & Crown-Indigenous Relations and Northern Affairs Canada,Unified Environmental Public Health Infosystem (UnEPHI),2,2019,2022,2022-04-25,2515000.0,2000000.0,2021-09-30,2023-09-22,-20.5,1.98,1. Under $10M,Green,Red,Red
+rcmp-edw,Royal Canadian Mounted Police,Enterprise Data Warehouse,2,2016,2019,2019-05-01,9291000.0,1500000.0,2018-03-31,2020-03-17,-83.9,1.96,1. Under $10M,Green,Red,Red
+ised-ppmi-sap,"Innovation, Science and Economic Development Canada",Procurement Process Modernization Initiative (PPMI),2,2019,2022,2022-04-25,2902309.0,4809522.0,2020-11-30,2022-10-31,65.7,1.92,1. Under $10M,Red,Red,Red
+chrc-cms,Canadian Human Rights Commission,Case Management System (CMS) and Portal,2,2019,2022,2022-04-25,1978248.0,4000000.0,2022-05-15,2024-03-31,102.2,1.88,1. Under $10M,Red,Red,Red
+rcmp-ce,Royal Canadian Mounted Police,Classified Environment,2,2016,2019,2019-05-01,4648000.0,1200000.0,2018-03-31,2020-02-02,-74.2,1.84,1. Under $10M,Green,Red,Red
+ircc-bep,"Immigration, Refugees and Citizenship Canada",Biometrics Expansion,2,2016,2019,2019-05-01,13229322.0,164457602.0,2018-06-01,2020-03-31,1143.1,1.83,2. $10M-$100M,Red,Red,Red
+ised-cipo-pit,"Innovation, Science and Economic Development Canada",CIPO Implementation of a Patent International Treaty,2,2016,2019,2019-05-01,1871950.0,5727228.0,2018-03-02,2019-12-31,205.9,1.83,1. Under $10M,Red,Red,Red
+ised-copi-idit,"Innovation, Science and Economic Development Canada",CIPO IT Implementation of an Industrial Design International Treaty,2,2016,2019,2019-05-01,1941371.0,8430453.0,2018-04-30,2020-02-28,334.3,1.83,1. Under $10M,Red,Red,Red
+esdc-cesp-ams,Employment and Social Development Canada,Canada Education Savings Program (CESP) Analytical and Monitoring Solution,2,2019,2022,2022-04-25,1409858.0,1863407.0,2021-06-07,2023-03-28,32.2,1.8,1. Under $10M,Red,Red,Red
+ssc-canarie,Shared Services Canada,CANARIE Network Monitoring,2,2016,2019,2019-05-01,32700000.0,31626469.0,2018-03-31,2019-12-31,-3.3,1.75,2. $10M-$100M,Green,Red,Red
+cbsa-ee-rfid,Canada Border Services Agency,Entry/Exit Information System,2,2016,2019,2019-05-01,131499223.0,143900000.0,2018-10-31,2020-06-01,9.4,1.59,3. Over $100M,Green,Red,Red
+ssc-noa,Shared Services Canada,Network Device Authentication (NDA),2,2019,2022,2022-04-25,13090000.0,20142526.0,2022-03-31,2023-10-31,53.9,1.59,2. $10M-$100M,Red,Red,Red
+tc-aimms,Transport Canada,Aircraft Inventory and Maintenance Management System,2,2019,2022,2022-04-25,14996031.0,18833917.0,2024-01-31,2025-08-31,25.6,1.58,2. $10M-$100M,Amber,Red,Red
+tc-hr,Transport Canada,Human Resources Systems Revitalization,2,2019,2022,2022-04-25,3192124.0,4494791.0,2020-11-30,2022-06-30,40.8,1.58,1. Under $10M,Red,Red,Red
+rcmp-gcdocs,Royal Canadian Mounted Police,GCdocs,2,2016,2019,2019-05-01,15082000.0,32000000.0,2018-03-31,2019-10-21,112.2,1.56,2. $10M-$100M,Red,Red,Red
+esdc-ils,Employment and Social Development Canada,Integrated Labour System (ILS),3,2016,2022,2022-04-25,10683201.0,23825720.0,2022-08-04,2024-02-12,123.0,1.52,2. $10M-$100M,Red,Red,Red
+ced-sap,Canada Economic Development for Quebec Regions,SAP Project (IRIS Solution),2,2019,2022,2022-04-25,2504496.0,2798064.0,2021-09-30,2023-03-31,11.7,1.5,1. Under $10M,Amber,Red,Red
+hc-eqms,Health Canada,Enterprise Quality Management System (eQMS),2,2019,2022,2022-04-25,1294289.0,1300000.0,2022-09-30,2024-03-31,0.4,1.5,1. Under $10M,Green,Red,Red
+phac-gphin,Public Health Agency of Canada,Global Public Health Intelligence Network 4 Renewal,2,2016,2019,2019-05-01,10100000.0,8200000.0,2018-03-31,2019-09-30,-18.8,1.5,2. $10M-$100M,Green,Red,Red
+ssc-edc-borden-1,Shared Services Canada,Enterprise Data Centre Borden Phase 1,2,2016,2019,2019-05-01,24403820.0,31671636.0,2018-03-31,2019-09-30,29.8,1.5,2. $10M-$100M,Amber,Red,Red
+cbsa-iapi,Canada Border Services Agency,Interactive Advance Passenger Information,2,2016,2019,2019-05-01,49987380.0,45800000.0,2018-03-31,2019-08-30,-8.4,1.42,2. $10M-$100M,Green,Red,Red
+cbsa-carm,Canada Border Services Agency,CBSA Accounts Revenue Management (CARM),2,2016,2019,2019-05-01,371502595.0,371500000.0,2020-03-31,2021-07-31,-0.0,1.33,3. Over $100M,Green,Red,Red
+dfo-tadap,Fisheries and Oceans Canada,Enterprise data Hub – Phase 1,2,2019,2022,2022-04-25,3884000.0,4565000.0,2021-03-31,2022-06-30,17.5,1.25,1. Under $10M,Amber,Red,Red
+hc-rsam,Health Canada,Recalls and Safety Alerts Migration,2,2019,2022,2022-04-25,1409400.0,1700000.0,2021-06-30,2022-09-30,20.6,1.25,1. Under $10M,Amber,Red,Red
+nrcan-ems-cwfis,Natural Resources Canada,Emergency Management Strategy – Canadian Wildland Fire Information Framework,2,2019,2022,2022-04-25,6925000.0,6925000.0,2022-12-31,2024-03-31,0.0,1.25,1. Under $10M,Green,Red,Red
+esdc-oas-sis,Employment and Social Development Canada,Old Age Security Service Improvement Strategy,2,2016,2019,2019-05-01,85448206.0,129679302.0,2020-04-17,2021-06-30,51.8,1.2,2. $10M-$100M,Red,Red,Red
+aafc-gcdp-crm,Agriculture and Agri-Food Canada,Grants and Contributions Digital Platform (GCDP) – Release 1,2,2019,2022,2022-04-25,11195560.0,21289200.0,2021-07-27,2022-09-30,90.2,1.18,2. $10M-$100M,Red,Red,Red
+rcmp-afis,Royal Canadian Mounted Police,Automated Fingerprint Identification Access System,2,2016,2019,2019-05-01,9000000.0,2000000.0,2018-03-31,2019-05-31,-77.8,1.17,1. Under $10M,Green,Red,Red
+ircc-sva,"Immigration, Refugees and Citizenship Canada",Start Up Visa eApplication,2,2019,2022,2022-04-25,5758000.0,5530000.0,2021-02-01,2022-03-31,-4.0,1.16,1. Under $10M,Green,Red,Red
+dnd-cwan,National Defence,Coalition Wide-Area Network (CWAN) Redundant Connectivity and Engineering Test Build,2,2019,2022,2022-04-25,4424544.0,4999735.0,2021-06-01,2022-06-30,13.0,1.08,1. Under $10M,Amber,Red,Red
+ircc-epassport-ng,"Immigration, Refugees and Citizenship Canada",ePassport Next Generation,2,2019,2022,2022-04-25,99648996.0,92700000.0,2022-02-28,2023-03-31,-7.0,1.08,2. $10M-$100M,Green,Red,Red
+rcmp-nc3,Royal Canadian Mounted Police,National Cybercrime Solution (NCS) – Phase 2,2,2019,2022,2022-04-25,14400000.0,45200000.0,2023-03-31,2024-04-25,213.9,1.07,2. $10M-$100M,Red,Red,Red
+csc-windows-10,Correctional Service Canada,Windows 10 Replacement,2,2016,2019,2019-05-01,3805773.0,3561727.0,2019-03-29,2020-03-31,-6.4,1.01,1. Under $10M,Green,Red,Red
+statcan-wlm,Statistics Canada,Workload Migration Program,2,2019,2022,2022-04-25,37310469.0,63719029.0,2022-03-31,2023-03-31,70.8,1.0,2. $10M-$100M,Red,Amber,Red
+tc-tsis,Transport Canada,Transportation Security Information System,2,2019,2022,2022-04-25,3189557.0,5385567.0,2022-03-31,2023-03-31,68.9,1.0,1. Under $10M,Red,Amber,Red
+esdc-hccs,Employment and Social Development Canada,Hosted Contact Centre Solution,2,2016,2019,2019-05-01,2098253.0,20277260.0,2018-08-31,2019-08-20,866.4,0.97,1. Under $10M,Red,Amber,Red
+ssc-vc-3,Shared Services Canada,Videoconferencing Phase 3,2,2016,2019,2019-05-01,2252000.0,28761000.0,2020-03-31,2021-03-01,1177.1,0.92,1. Under $10M,Red,Amber,Red
+dfo-efmsi,Fisheries and Oceans Canada,Ecosystems and Fisheries Management Systems Integration,2,2016,2019,2019-05-01,12980100.0,23803000.0,2020-06-30,2021-03-31,83.4,0.75,2. $10M-$100M,Red,Amber,Red
+dnd-cse-csmi-2b,National Defence,Classified Security Management Infrastructure Phase 2B,2,2016,2019,2019-05-01,31577000.0,61385855.0,2021-03-31,2021-03-31,94.4,0.0,2. $10M-$100M,Red,Green,Red
+pc-maximo,Parks Canada,Maximo Enterprise Asset Management System,2,2016,2019,2019-05-01,2970000.0,6711456.0,2020-03-31,2020-03-31,126.0,0.0,1. Under $10M,Red,Green,Red
+esdc-cpp-e,Employment and Social Development Canada,Canada Pension Plan (CPP) Enhancement,2,2019,2022,2022-04-25,50543844.0,75175692.0,2025-12-24,2025-03-31,48.7,-0.73,2. $10M-$100M,Red,Green,Red
+cra-hrb-bi,Canada Revenue Agency,Human Resources Business Intelligence (BI) Infrastructure,2,2019,2022,2022-04-25,2500000.0,5203000.0,2024-03-31,2023-03-31,108.1,-1.0,1. Under $10M,Red,Green,Red
+ssc-hccs,Shared Services Canada,Hosted Contact Centre Services Transformation,2,2016,2019,2019-05-01,17600000.0,44059000.0,2023-03-31,2020-03-31,150.3,-3.0,2. $10M-$100M,Red,Green,Red

@@ -1,0 +1,10 @@
+cost_rag,schedule_rag,projects
+Amber,Amber,4
+Amber,Green,4
+Amber,Red,26
+Green,Amber,14
+Green,Green,14
+Green,Red,39
+Red,Amber,5
+Red,Green,5
+Red,Red,66
